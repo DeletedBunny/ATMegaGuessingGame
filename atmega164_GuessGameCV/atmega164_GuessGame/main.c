@@ -2,7 +2,7 @@
  * ATmega164
  *
  * Created: 11/25/2020 10:43:10 AM
- * Author: Savu Alexandru-Mihai
+ * Author: Savu Emma
  *
  *
  * Freq = 20 MHz
