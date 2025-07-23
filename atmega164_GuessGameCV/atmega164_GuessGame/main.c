@@ -141,8 +141,8 @@ extern const PROGMEM unsigned char FONT[] = {
 const char TXT_ABOUT_line_0[] PROGMEM = "A game where you must";
 const char TXT_ABOUT_line_1[] PROGMEM = "guess the word. This";
 const char TXT_ABOUT_line_2[] PROGMEM = "software was written";
-const char TXT_ABOUT_line_3[] PROGMEM = "by Alexandru-Mihai";
-const char TXT_ABOUT_line_4[] PROGMEM = "Savu group 1242 EB";
+const char TXT_ABOUT_line_3[] PROGMEM = "by Emma Savu";
+const char TXT_ABOUT_line_4[] PROGMEM = "group 1242 EB";
 const char TXT_ABOUT_line_5[] PROGMEM = "from FILS.";
 
 PGM_P const TXT_ABOUT[] PROGMEM =
